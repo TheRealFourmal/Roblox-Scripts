@@ -8,6 +8,7 @@
 ░╚════╝░╚═╝░░╚═╝░╚════╝░╚══════╝╚═╝░░╚═╝
 
 [+] Universal ESP Tracker
+[+] Nov 2, 2025 : Date of Edit/Release
 
 --]]
 
